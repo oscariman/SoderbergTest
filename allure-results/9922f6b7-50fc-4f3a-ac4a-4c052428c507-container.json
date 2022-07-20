@@ -1,0 +1,1 @@
+{"uuid":"9922f6b7-50fc-4f3a-ac4a-4c052428c507","name":"Scenario: Create user","children":["5f374b41-dff3-476d-92e6-127a91b7a97d"],"befores":[{"name":"com.test.soderberg.stepdef.RequestStepdef.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1658300060511,"stop":1658300060512}],"afters":[],"start":1658300060511,"stop":1658300060913}

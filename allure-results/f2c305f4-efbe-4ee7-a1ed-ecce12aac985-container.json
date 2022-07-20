@@ -1,0 +1,1 @@
+{"uuid":"f2c305f4-efbe-4ee7-a1ed-ecce12aac985","name":"Scenario: Get a user","children":["73a40fc3-f5c2-42c5-a4f7-a2da7bc2cd2b"],"befores":[{"name":"com.test.soderberg.stepdef.RequestStepdef.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1658300059627,"stop":1658300059628}],"afters":[],"start":1658300059627,"stop":1658300059913}
